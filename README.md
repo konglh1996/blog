@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blog
 
 > A Vue + Wordpress Rest API blog
@@ -103,3 +104,6 @@ Then visit the pages
 ```
 
 For detailed explanation on how things work, checkout the [guide](https://github.com/Plortinus/vue-multiple-pages)
+=======
+# blog
+>>>>>>> 25f7d2f5670f36f9d4a94f84c9c6adc0055024e0
